@@ -76,8 +76,4 @@ ERROR	1
 
     CLI arguments for custom log paths
 
- Author
-
-Shraddha
-🔗 GitHub Profile
 
